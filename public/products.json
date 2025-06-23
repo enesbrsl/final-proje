@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Doğal Domates",
+    "price": 99 ,
+    "image": "/images/domates.jpg",
+    "description": "Tarladan toplanmış, katkısız domates."
+  },
+  {
+    "id": 2,
+    "name": "Organik Salatalık",
+    "price": 9,
+    "image": "/images/salatalik.jpg",
+    "description": "Serinletici ve taptaze salatalık."
+  },
+  {
+    "id": 3,
+    "name": "Köy Yumurtası (10'lu)",
+    "price": 22,
+    "image": "/images/yumurta.jpg",
+    "description": "Doğal köy yumurtaları, katkısız protein kaynağı."
+  }
+]
